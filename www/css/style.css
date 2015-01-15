@@ -1,0 +1,16 @@
+/* Empty. Add your own CSS if you like */
+.pad-25 {
+    padding: 25px;
+    text-align: center;
+    width: 100%;
+}
+
+.item-box{
+    background: none repeat scroll 0 0 #f7f7f7;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    margin: 10px auto;
+	padding:20px;
+    text-align: center;
+	width:50%;
+}
